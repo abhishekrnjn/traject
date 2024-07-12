@@ -1,0 +1,30 @@
+{
+    "text": "Scale Serp",
+    "href": "https://www.scaleserp.com/docs",
+    "children": [
+        {
+            "text": "Account API",
+            "href": "https://www.serpwow.com/docs/account-api"
+        },
+        {
+            "text": "Product Updates",
+            "href": "https://www.serpwow.com/docs/product-updates"
+        },
+        {
+            "text": "Response Codes",
+            "href": "https://www.serpwow.com/docs/response-codes"
+        },
+        {
+            "text": "Account API",
+            "href": "https://www.scaleserp.com/docs/account-api"
+        },
+        {
+            "text": "Product Updates",
+            "href": "https://www.scaleserp.com/docs/product-updates"
+        },
+        {
+            "text": "Response Codes",
+            "href": "https://www.scaleserp.com/docs/response-codes"
+        }
+    ]
+}

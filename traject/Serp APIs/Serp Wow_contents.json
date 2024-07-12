@@ -1,0 +1,18 @@
+{
+    "text": "Serp Wow",
+    "href": "https://www.serpwow.com/docs",
+    "children": [
+        {
+            "text": "Account API",
+            "href": "https://www.serpwow.com/docs/account-api"
+        },
+        {
+            "text": "Product Updates",
+            "href": "https://www.serpwow.com/docs/product-updates"
+        },
+        {
+            "text": "Response Codes",
+            "href": "https://www.serpwow.com/docs/response-codes"
+        }
+    ]
+}
